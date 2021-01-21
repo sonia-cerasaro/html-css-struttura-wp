@@ -9,9 +9,9 @@
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
-}*/
+}
 
-/* altezze colonne!*/
+/*---altezze colonne----*/
 
 .col_uno {
   height: 100px;
@@ -28,8 +28,13 @@
   height: 50px;
 }
 
-/* altezze colonne!
-}*/
+/*---larghezza colonne----*/
+
+.col-100 {
+  width: 100%;
+}
+
+/*---clear fix & float---*/
 
 .mt {
   margin-top: 13px;
@@ -46,11 +51,8 @@
   padding: 0 20px;
 }
 
-.col-100 {
-  width: 100%;
-}
+/*---altezze di background---*/
 
-/*---heights and backgrounds---*/
 .bg_violet {
   height: 100px;
   background-color: violet;
